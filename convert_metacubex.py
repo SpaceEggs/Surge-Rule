@@ -2,40 +2,52 @@ import json
 import os
 from pathlib import Path
 
-def convert_json(input_path, output_root, source_type):
-    """将 JSON 转换为 .list 格式，并保留目录结构"""
-    with open(input_path, 'r') as f:
-        data = json.load(f)
-    
-    lines = []
-    for rule in data.get("rules", []):
-        for domain in rule.get("domain", []):
-            lines.append(f"DOMAIN,{domain}")
-        for suffix in rule.get("domain_suffix", []):
-            lines.append(f"DOMAIN-SUFFIX,{suffix}")
-    
-    # 构建输出路径（保留源目录结构）
-    relative_path = input_path.relative_to(f"source-repo/{source_type}/geosite")
-    output_path = output_root / source_type / relative_path.with_suffix(".list")
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    
-    with open(output_path, 'w') as f:
-        f.write("\n".join(lines))
-
-def main():
-    repo_dir = Path("source-repo")
-    output_dir = Path("processed-rules")
-    
-    # 定义需要处理的路径映射
-    process_paths = {
-        "geo": repo_dir / "geo/geosite",
-        "geo-lite": repo_dir / "geo-lite/geosite"
+def convert_geoip_rules():
+    # 配置路径参数
+    base_dirs = {
+        "geo": "source-repo/geo/geoip",
+        "geo-lite": "source-repo/geo-lite/geoip"
     }
+    output_root = Path("processed-rules")
 
-    for source_type, source_path in process_paths.items():
-        for json_file in source_path.glob("**/*.json"):
-            convert_json(json_file, output_dir, source_type)
-            print(f"Converted [{source_type}]: {json_file}")
+    # 遍历所有源目录
+    for category, src_dir in base_dirs.items():
+        src_path = Path(src_dir)
+        if not src_path.exists():
+            print(f"⚠️ 源目录不存在: {src_path}")
+            continue
+
+        # 创建输出目录 processed-rules/[category]/geoip
+        output_dir = output_root / category / "geoip"
+        output_dir.mkdir(parents=True, exist_ok=True)
+
+        # 处理所有 JSON 文件
+        for json_file in src_path.glob("*.json"):
+            # 生成对应的 .list 输出路径
+            list_file = output_dir / f"{json_file.stem}.list"
+            
+            print(f"🔄 转换中: {json_file} → {list_file}")
+            
+            try:
+                with open(json_file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                
+                # 提取所有 CIDR 规则
+                cidrs = []
+                for rule in data.get("rules", []):
+                    cidrs.extend(rule.get("ip_cidr", []))
+                
+                # 写入 .list 文件
+                with open(list_file, 'w', encoding='utf-8') as f:
+                    for cidr in cidrs:
+                        f.write(f"IP-CIDR,{cidr}\n")
+                
+                print(f"✅ 生成 {len(cidrs)} 条规则")
+                
+            except Exception as e:
+                print(f"❌ 处理失败: {json_file} - {str(e)}")
 
 if __name__ == "__main__":
-    main()
+    print("=== 开始转换 GeoIP 规则 ===")
+    convert_geoip_rules()
+    print("=== 转换完成 ===")
