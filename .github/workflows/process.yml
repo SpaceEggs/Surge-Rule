@@ -41,7 +41,7 @@ jobs:
           git config --global user.email "895212128@qq.com"
 
           # 添加所有变更
-          git add processed-rules/
+          git add geo/ geo-lite/
 
           # 检测是否有实际变更
           if git diff-index --quiet HEAD --; then
