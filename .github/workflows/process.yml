@@ -1,0 +1,40 @@
+name: Daily Geo Rules Converter
+
+on:
+  schedule:
+    # 每天北京时间 8:00 执行 (UTC 0:00)
+    - cron: "0 0 * * *"  
+  workflow_dispatch:      # 保留手动触发按钮
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout with write permission
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true  # 关键权限配置
+
+      - name: Clone source data
+        run: |
+          git clone --depth 1 --branch sing \
+            https://github.com/MetaCubeX/meta-rules-dat.git \
+            source-repo
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Run daily conversion
+        run: |
+          pip install pathlib
+          python convert_metacubex.py
+
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name "Auto Updater"
+          git config --global user.email "auto@users.noreply.github.com"
+          git add processed-rules/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-Update: $(date -u +'%Y-%m-%dT%H:%MZ')"
+          git push
