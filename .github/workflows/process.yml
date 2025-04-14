@@ -2,18 +2,21 @@ name: Daily Geo Rules Converter
 
 on:
   schedule:
-    # 每天北京时间 8:00 执行 (UTC 0:00)
-    - cron: "0 0 * * *"  
-  workflow_dispatch:      # 保留手动触发按钮
+    - cron: "0 0 * * *"  # UTC 时间每天 0 点
+  workflow_dispatch:
 
 jobs:
   convert:
     runs-on: ubuntu-latest
+    permissions:  # 关键权限声明
+      contents: write
+
     steps:
-      - name: Checkout with write permission
+      - name: Checkout with credentials
         uses: actions/checkout@v4
         with:
-          persist-credentials: true  # 关键权限配置
+          persist-credentials: true  # 保留认证信息
+          fetch-depth: 0  # 获取完整提交历史
 
       - name: Clone source data
         run: |
@@ -26,15 +29,26 @@ jobs:
         with:
           python-version: "3.10"
 
-      - name: Run daily conversion
+      - name: Run conversion
         run: |
           pip install pathlib
           python convert_metacubex.py
 
-      - name: Commit & Push changes
+      - name: Commit & Push
         run: |
-          git config --global user.name "Auto Updater"
-          git config --global user.email "auto@users.noreply.github.com"
+          # 配置 Git 身份
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+          # 添加所有变更
           git add processed-rules/
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-Update: $(date -u +'%Y-%m-%dT%H:%MZ')"
-          git push
+
+          # 检测是否有实际变更
+          if git diff-index --quiet HEAD --; then
+            echo "没有检测到变更"
+          else
+            # 提交并推送（使用 token 认证）
+            git commit -m "Auto-Update: $(date -u +'%Y-%m-%dT%H:%MZ')"
+            git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+            git push origin HEAD:main
+          fi
