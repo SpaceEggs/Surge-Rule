@@ -127,6 +127,8 @@ DOMAIN,discord-attachments-uploads-prd.storage.googleapis.com
 DOMAIN,dl.begellhouse.com
 DOMAIN,dlgarenanow-a.akamaihd.net
 DOMAIN,dlmobilegarena-a.akamaihd.net
+DOMAIN,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
+DOMAIN,docker-pinata-support.s3.amazonaws.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,dqrpb9wgowsf5.cloudfront.net
 DOMAIN,ds-linear-abematv.akamaized.net
@@ -447,6 +449,7 @@ DOMAIN,vscode-sync.trafficmanager.net
 DOMAIN,vscode.blob.core.windows.net
 DOMAIN,vscode.search.windows.net
 DOMAIN,vsmarketplacebadge.apphb.com
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
 DOMAIN,weblive-hamivideo.cdn.hinet.net
 DOMAIN,wetv.qq.com
 DOMAIN,widgets.stripst.com

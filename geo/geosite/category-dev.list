@@ -9,6 +9,8 @@ DOMAIN,d29vzk4ow07wi7.cloudfront.net
 DOMAIN,default.exp-tas.com
 DOMAIN,developer.microsoft.com
 DOMAIN,developers.facebook.com
+DOMAIN,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
+DOMAIN,docker-pinata-support.s3.amazonaws.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,dtlgalleryint.cloudapp.net
 DOMAIN,firebase-settings.crashlytics.com
