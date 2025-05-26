@@ -234,6 +234,7 @@ DOMAIN,ntp-b.nist.gov
 DOMAIN,ntp-c.colorado.edu
 DOMAIN,ntp-d.nist.gov
 DOMAIN,ntp-wwv.nist.gov
+DOMAIN,ntp.ubuntu.com
 DOMAIN,ntp0.ntp-servers.net
 DOMAIN,ntp1.ntp-servers.net
 DOMAIN,ntp2.ntp-servers.net
@@ -402,10 +403,12 @@ DOMAIN,time-e-g.nist.gov
 DOMAIN,time-e-wwv.nist.gov
 DOMAIN,time.apple.com
 DOMAIN,time.aws.com
+DOMAIN,time.cloudflare.com
 DOMAIN,time.euro.apple.com
 DOMAIN,time.facebook.com
 DOMAIN,time.google.com
 DOMAIN,time.nist.gov
+DOMAIN,time.windows.com
 DOMAIN,time1.facebook.com
 DOMAIN,time1.google.com
 DOMAIN,time2.facebook.com
