@@ -49,6 +49,7 @@ DOMAIN,amp-api.apps.apple.com
 DOMAIN,amp-api.media.apple.com
 DOMAIN,amp-api.music.apple.com
 DOMAIN,analytics.google.com
+DOMAIN,android.googlesource.com
 DOMAIN,aod.itunes.apple.com
 DOMAIN,api-edge.apps.apple.com
 DOMAIN,api-p-ap-c.smoot.apple.com
