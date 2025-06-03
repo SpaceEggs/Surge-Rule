@@ -20,6 +20,7 @@ DOMAIN,dlmobilegarena-a.akamaihd.net
 DOMAIN,ea.tt.omtrdc.net
 DOMAIN,eaassets-a.akamaihd.net
 DOMAIN,f3b7q2p3.ssl.hwcdn.net
+DOMAIN,flightsimulator.azureedge.net
 DOMAIN,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN,gog-cdn-fastly.gog.com
 DOMAIN,gog-cdn.akamaized.net
@@ -36,6 +37,7 @@ DOMAIN,opgg-static.akamaized.net
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,osu.ppy.sh
 DOMAIN,prd-priconne-redive.akamaized.net
+DOMAIN,prodforza.blob.core.windows.net
 DOMAIN,productcard.gog-statics.com
 DOMAIN,rtm.tnt-ea.com
 DOMAIN,sentry.ppy.sh

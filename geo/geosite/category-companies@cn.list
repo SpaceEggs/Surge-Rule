@@ -14,14 +14,12 @@ DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 DOMAIN,amp-api-edge-lb.itunes-apple.com.akadns.net
 DOMAIN,amp-api-edge.apps.apple.com
 DOMAIN,amp-api-search-edge.apps.apple.com
+DOMAIN,amp-api-updates.apps.apple.com
 DOMAIN,amp-api.apps.apple.com
 DOMAIN,amp-api.media.apple.com
 DOMAIN,amp-api.music.apple.com
 DOMAIN,aod.itunes.apple.com
 DOMAIN,api-edge.apps.apple.com
-DOMAIN,api-p-ap-c.smoot.apple.com
-DOMAIN,api-p-ap-d.smoot.apple.com
-DOMAIN,api-p-ap-e.smoot.apple.com
 DOMAIN,app-analytics-services.com
 DOMAIN,app-measurement-cn.com
 DOMAIN,app-measurement.com
@@ -35,6 +33,7 @@ DOMAIN,apptrailers.itunes.apple.com
 DOMAIN,auth.music.apple.com
 DOMAIN,avail.googleflights.net
 DOMAIN,b.c2r.ts.cdn.office.net
+DOMAIN,bag-cdn.itunes-apple.com.akadns.net
 DOMAIN,bag.itunes.apple.com
 DOMAIN,beacons.gcp.gvt2.com
 DOMAIN,beacons.gvt2.com
@@ -112,6 +111,8 @@ DOMAIN,dd-cdn.origin-apple.com.akadns.net
 DOMAIN,dejavu.apple.com
 DOMAIN,devblogs.microsoft.com
 DOMAIN,developer.microsoft.com
+DOMAIN,devimages-cdn.apple.com
+DOMAIN,devstreaming-cdn.apple.com
 DOMAIN,dg-meta.video.google.com
 DOMAIN,discussionschinese.apple.com
 DOMAIN,dl.google.com
@@ -168,18 +169,17 @@ DOMAIN,gsp10-ssl-cn.ls.apple.com
 DOMAIN,gsp12-cn.ls.apple.com
 DOMAIN,gsp13-cn.ls.apple.com
 DOMAIN,gsp4-cn.ls.apple.com
-DOMAIN,gsp4-cn.ls.apple.com.edgekey.net
 DOMAIN,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,gsp5-cn.ls.apple.com
 DOMAIN,gsp85-cn-ssl.ls.apple.com
 DOMAIN,gspe11-2-cn-ssl.ls.apple.com
 DOMAIN,gspe12-cn-ssl.ls.apple.com
+DOMAIN,gspe19-2-cn-ssl.ls-apple.com.akadns.net
 DOMAIN,gspe19-2-cn-ssl.ls.apple.com
 DOMAIN,gspe19-cn-ssl.ls.apple.com
 DOMAIN,gspe19-cn.ls-apple.com.akadns.net
 DOMAIN,gspe19-cn.ls.apple.com
 DOMAIN,gspe21-ssl.ls.apple.com
-DOMAIN,gspe21.ls.apple.com
 DOMAIN,gspe35-ssl.ls.apple.com
 DOMAIN,gspe79-cn-ssl.ls.apple.com
 DOMAIN,gspe85-cn-ssl.ls.apple.com
@@ -194,8 +194,6 @@ DOMAIN,icloud-cdn.icloud.com.akadns.net
 DOMAIN,icloud.cdn-apple.com
 DOMAIN,images-cn-8.ssl-images-amazon.com
 DOMAIN,images-cn.ssl-images-amazon.com
-DOMAIN,images.apple.com
-DOMAIN,images.apple.com.akadns.net
 DOMAIN,images.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,imasdk.googleapis.com
 DOMAIN,inappcheck-cn.itunes-apple.com.akadns.net
@@ -217,6 +215,7 @@ DOMAIN,iosapps.itunes.g.aaplimg.com
 DOMAIN,ipcdn.apple.com
 DOMAIN,iphone-ld.apple.com
 DOMAIN,iphone-ld.origin-apple.com.akadns.net
+DOMAIN,is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
 DOMAIN,is1-ssl.mzstatic.com
 DOMAIN,is1.mzstatic.com
 DOMAIN,is2-ssl.mzstatic.com
@@ -402,7 +401,6 @@ DOMAIN,www-google-analytics.l.google.com
 DOMAIN,www-googletagmanager.l.google.com
 DOMAIN,www.amd.com
 DOMAIN,www.apple.com
-DOMAIN,www.apple.com.edgekey.net
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,www.destinationurl.com
 DOMAIN,www.gstatic.com
