@@ -72,6 +72,7 @@ DOMAIN,bnetshopus.akamaized.net
 DOMAIN,brightcove.imgix.net
 DOMAIN,bybit-exchange.github.io
 DOMAIN,bybit.ada.support
+DOMAIN,bytedance.map.fastly.net
 DOMAIN,c.ppy.sh
 DOMAIN,cbsi.live.ott.irdeto.com
 DOMAIN,cbsplaylistserver.aws.syncbak.com
@@ -119,6 +120,7 @@ DOMAIN,databank.worldbank.org
 DOMAIN,database.asahi.com
 DOMAIN,ddacn6pr5v0tl.cloudfront.net
 DOMAIN,default.exp-tas.com
+DOMAIN,dell.my.site.com
 DOMAIN,deribit.cdn.prismic.io
 DOMAIN,deutschewelle.h-cdn.com
 DOMAIN,developer.microsoft.com
@@ -395,6 +397,7 @@ DOMAIN,statics-marketingsites-wcus-ms-com.akamaized.net
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN,steamcommunity-a.akamaihd.net
+DOMAIN,steamcommunity-a.akamaihd.net.edgesuite.net
 DOMAIN,steammobile.akamaized.net
 DOMAIN,steampipe-kr.akamaized.net
 DOMAIN,steampipe-partner.akamaized.net
@@ -423,6 +426,7 @@ DOMAIN,time-e-b.nist.gov
 DOMAIN,time-e-g.nist.gov
 DOMAIN,time-e-wwv.nist.gov
 DOMAIN,time.apple.com
+DOMAIN,time.asia.apple.com
 DOMAIN,time.aws.com
 DOMAIN,time.cloudflare.com
 DOMAIN,time.euro.apple.com

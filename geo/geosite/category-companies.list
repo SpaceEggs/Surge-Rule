@@ -30,6 +30,7 @@ DOMAIN,adobe-dns-4.adobe.com
 DOMAIN,adobe-dns.adobe.com
 DOMAIN,adobeereg.com
 DOMAIN,adservice.google.com
+DOMAIN,afcs.dell.com
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
@@ -133,6 +134,7 @@ DOMAIN,client-api.itunes.apple.com
 DOMAIN,client-teamviewer-com.trafficmanager.net
 DOMAIN,clientflow.apple.com
 DOMAIN,clientflow.apple.com.akadns.net
+DOMAIN,clientperipherals.dell.com
 DOMAIN,clients1.google.com
 DOMAIN,clientservices.googleapis.com
 DOMAIN,cma.itunes.apple.com
@@ -158,12 +160,15 @@ DOMAIN,csi.gstatic.com
 DOMAIN,cstat.apple.com
 DOMAIN,cstat.cdn-apple.com
 DOMAIN,ctldl.windowsupdate.com
+DOMAIN,customization-cdn.dell.com
 DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net
 DOMAIN,dartsearch-cn.net
 DOMAIN,dd-cdn.origin-apple.com.akadns.net
+DOMAIN,dds.dell.com
 DOMAIN,default.exp-tas.com
 DOMAIN,dejavu.apple.com
+DOMAIN,dell.my.site.com
 DOMAIN,devblogs.microsoft.com
 DOMAIN,developer.microsoft.com
 DOMAIN,developers.facebook.com
@@ -172,6 +177,7 @@ DOMAIN,devstreaming-cdn.apple.com
 DOMAIN,dfp6rglgjqszk.cloudfront.net
 DOMAIN,dg-meta.video.google.com
 DOMAIN,discussionschinese.apple.com
+DOMAIN,dl.dell.com
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,docs.microsoft.com
@@ -185,6 +191,9 @@ DOMAIN,download.tensorflow.google.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,downloaddispatch.itunes.apple.com
 DOMAIN,dtlgalleryint.cloudapp.net
+DOMAIN,ea2cn-dev-outlet.dell.com
+DOMAIN,ea2cn-prod-outlet.dell.com
+DOMAIN,ea2cn-staging-outlet.dell.com
 DOMAIN,emmapplecodevice.googleapis.com
 DOMAIN,emoi-cncdn.bing.com
 DOMAIN,ereg.adobe.com
@@ -197,6 +206,7 @@ DOMAIN,experiments.apple.com
 DOMAIN,f.c2r.ts.cdn.office.net
 DOMAIN,faronics.kayako.com
 DOMAIN,fbcdn-a.akamaihd.net
+DOMAIN,fcs.dell.com
 DOMAIN,fides-pol.apple.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,firebase.google.com
@@ -216,10 +226,16 @@ DOMAIN,fontfiles.googleapis.com
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
 DOMAIN,fs.microsoft.com
+DOMAIN,fta.dell.com
+DOMAIN,ftaapj.dell.com
+DOMAIN,ftaemea.dell.com
+DOMAIN,ftasitapj.dell.com
 DOMAIN,g0.gstatic.com
 DOMAIN,g1.gstatic.com
 DOMAIN,g2.gstatic.com
 DOMAIN,g3.gstatic.com
+DOMAIN,gbxgateway-dev.dell.com
+DOMAIN,gbxgateway.dell.com
 DOMAIN,gigabyte2.azureedge.net
 DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN,go.corp.google.com
@@ -277,6 +293,7 @@ DOMAIN,hls-amt.itunes.apple.com
 DOMAIN,hls.itunes.apple.com
 DOMAIN,hpefonts.s3.amazonaws.com
 DOMAIN,hpstore.corpmerchandise.com
+DOMAIN,i.dell.com
 DOMAIN,i.pki.goog
 DOMAIN,icloud-cdn.icloud.com.akadns.net
 DOMAIN,icloud.cdn-apple.com
@@ -352,6 +369,7 @@ DOMAIN,mwf-service.akamaized.net
 DOMAIN,myapp.itunes.apple.com
 DOMAIN,myvs.download.prss.microsoft.com
 DOMAIN,na1r.services.adobe.com
+DOMAIN,nexus.dell.com
 DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
 DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
 DOMAIN,np-edge.itunes.apple.com
@@ -378,6 +396,7 @@ DOMAIN,oscdn.origin-apple.com.akadns.net
 DOMAIN,osxapps.itunes.apple.com
 DOMAIN,osxapps.itunes.g.aaplimg.com
 DOMAIN,p-events-delivery.akamaized.net
+DOMAIN,p.cdn.persaas.dell.com
 DOMAIN,pagead-googlehosted.l.google.com
 DOMAIN,pancake.apple.com
 DOMAIN,pancake.cdn-apple.com.akadns.net
@@ -448,6 +467,7 @@ DOMAIN,sa78gs.wpc.edgecastcdn.net
 DOMAIN,safebrowsing-cache.google.com
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,scanservice1.qcpp1.net
+DOMAIN,scene7-cdn.dell.com
 DOMAIN,scholar.google.ae
 DOMAIN,scholar.google.at
 DOMAIN,scholar.google.be
@@ -539,10 +559,14 @@ DOMAIN,sf-api-token-service.itunes.apple.com
 DOMAIN,sh-pod2-smp-device.apple.com
 DOMAIN,shazam-insights.cdn-apple.com
 DOMAIN,shell.cdn.office.net
+DOMAIN,si.cdn.dell.com
 DOMAIN,silverlight.dlservice.microsoft.com
 DOMAIN,slupdate.dlservice.microsoft.com
+DOMAIN,sm.dell.com
 DOMAIN,smp-device-content.apple.com
 DOMAIN,sni1dcb6gl.wpc.edgecastcdn.net
+DOMAIN,snp.cdn.dell.com
+DOMAIN,snpi.dell.com
 DOMAIN,software.download.prss.microsoft.com
 DOMAIN,sp.itunes.apple.com
 DOMAIN,ssl-google-analytics.l.google.com
@@ -574,6 +598,7 @@ DOMAIN,sup.corp.google.com
 DOMAIN,sup.l.google.com
 DOMAIN,support-china.apple-support.akadns.net
 DOMAIN,support.apple.com
+DOMAIN,supportassist.dell.com
 DOMAIN,surface.downloads.prss.microsoft.com
 DOMAIN,swallow-apple-com.v.aaplimg.com
 DOMAIN,swallow.apple.com
@@ -727,11 +752,13 @@ DOMAIN,wwis-dubc1-vip97.adobe.com
 DOMAIN,wwis-dubc1-vip98.adobe.com
 DOMAIN,wwis-dubc1-vip99.adobe.com
 DOMAIN,www-cdn.icloud.com.akadns.net
+DOMAIN,www-csb.dell.com
 DOMAIN,www-google-analytics.l.google.com
 DOMAIN,www-googletagmanager.l.google.com
 DOMAIN,www.amd.com
 DOMAIN,www.apple.com
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
+DOMAIN,www.dell.com
 DOMAIN,www.destinationurl.com
 DOMAIN,www.gstatic.com
 DOMAIN,www.microsoft.com
