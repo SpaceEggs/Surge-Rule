@@ -1,6 +1,7 @@
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
+DOMAIN,cdn.lilyemby.com
 DOMAIN,client.amplifi.com
 DOMAIN,download.jetbrains.com
 DOMAIN,download.microsoft.com
@@ -12,6 +13,7 @@ DOMAIN,origin-a.akamaihd.ne
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,sms.imagetasks.com
 DOMAIN,steamcommunity-a.akamaihd.net
+DOMAIN,tx.lilyemby.com
 DOMAIN,weixin.com
 DOMAIN,www.libvideo.com
 DOMAIN,www.yxssp.com
