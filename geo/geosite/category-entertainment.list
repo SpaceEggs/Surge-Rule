@@ -109,6 +109,7 @@ DOMAIN,static-hamivideo.cdn.hinet.net
 DOMAIN,static-login.gog-statics.com
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN,steamcloudsweden.blob.core.windows.net
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,steamcommunity-a.akamaihd.net.edgesuite.net
 DOMAIN,steammobile.akamaized.net
@@ -132,3 +133,4 @@ DOMAIN,vod-abematv.akamaized.net
 DOMAIN,weblive-hamivideo.cdn.hinet.net
 DOMAIN,www4-static.gog-statics.com
 DOMAIN,xz.pphimalayanrt.com
+DOMAIN,yt3.googleusercontent.com

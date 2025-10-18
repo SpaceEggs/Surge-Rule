@@ -237,6 +237,7 @@ DOMAIN,g3.gstatic.com
 DOMAIN,gbxgateway-dev.dell.com
 DOMAIN,gbxgateway.dell.com
 DOMAIN,gigabyte2.azureedge.net
+DOMAIN,github-api.arkoselabs.com
 DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN,go.corp.google.com
 DOMAIN,gonglchuangl.net
@@ -768,3 +769,4 @@ DOMAIN,www.support.apple.com
 DOMAIN,xb.dlservice.microsoft.com
 DOMAIN,xn--flw351e.com
 DOMAIN,xp.apple.com
+DOMAIN,yt3.googleusercontent.com
