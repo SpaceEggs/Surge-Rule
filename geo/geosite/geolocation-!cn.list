@@ -88,7 +88,7 @@ DOMAIN,client-teamviewer-com.trafficmanager.net
 DOMAIN,clients1.google.com
 DOMAIN,cloudsync-prod.s3.amazonaws.com
 DOMAIN,community.oneplus.com
-DOMAIN,courier-push-apple.com.akadns.net
+DOMAIN,configuration-lb.ls-apple.com.akadns.net
 DOMAIN,crl.microsoft.com
 DOMAIN,crl.versign.net
 DOMAIN,csis-prod.s3.amazonaws.com

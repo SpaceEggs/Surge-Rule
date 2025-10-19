@@ -144,11 +144,11 @@ DOMAIN,cn.widevine.com
 DOMAIN,cn.windowssearch.com
 DOMAIN,cnappinstall.googleadapis.com
 DOMAIN,communities.apple.com
+DOMAIN,configuration-lb.ls-apple.com.akadns.net
 DOMAIN,configuration.apple.com
 DOMAIN,configuration.apple.com.akadns.net
 DOMAIN,connectivitycheck.gstatic.com
 DOMAIN,content.googleadapis.com
-DOMAIN,courier-push-apple.com.akadns.net
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,crl-lb.apple.com.akadns.net
 DOMAIN,crl.apple.com
