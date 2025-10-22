@@ -146,12 +146,14 @@ DOMAIN,eaassets-a.akamaihd.net
 DOMAIN,ebay-25-assets.s3-us-west-1.amazonaws.com
 DOMAIN,ecapi-pchome.cdn.hinet.net
 DOMAIN,elib.maruzen.co.jp
+DOMAIN,epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
 DOMAIN,ereg.adobe.com
 DOMAIN,ereg.wip.adobe.com
 DOMAIN,ereg.wip1.adobe.com
 DOMAIN,ereg.wip2.adobe.com
 DOMAIN,ereg.wip3.adobe.com
 DOMAIN,ereg.wip4.adobe.com
+DOMAIN,eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
 DOMAIN,espn.api.edge.bamgrid.com
 DOMAIN,espn.hb.omtrdc.net
 DOMAIN,espndotcom.tt.omtrdc.net
