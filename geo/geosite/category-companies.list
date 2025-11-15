@@ -1,4 +1,3 @@
-DOMAIN,1password.drift.click
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
@@ -90,7 +89,6 @@ DOMAIN,bg4.v4.a.dl.ws.microsoft.com
 DOMAIN,bingsettingssearch.trafficmanager.net
 DOMAIN,bj1.api.bing.com
 DOMAIN,bookkeeper.itunes.apple.com
-DOMAIN,browser-intake-datadoghq.com
 DOMAIN,build.microsoft.com
 DOMAIN,c.admob.com
 DOMAIN,c.android.clients.google.com
@@ -438,7 +436,6 @@ DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,nvidia.tt.omtrdc.net
 DOMAIN,o.pki.goog
-DOMAIN,o33249.ingest.sentry.io
 DOMAIN,ocsp-lb.apple.com.akadns.net
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp.microsoft.com
@@ -450,10 +447,6 @@ DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,officecdn.microsoft.com
 DOMAIN,oneocsp.microsoft.com
 DOMAIN,ood.opsource.net
-DOMAIN,openaiapi-site.azureedge.net
-DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-DOMAIN,openaicom.imgix.net
-DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,oscdn.apple.com
 DOMAIN,oscdn.origin-apple.com.akadns.net
 DOMAIN,osxapps.itunes.apple.com
@@ -493,7 +486,6 @@ DOMAIN,play-edge.itunes.apple.com
 DOMAIN,play.itunes.apple.com
 DOMAIN,play.music.apple.com
 DOMAIN,poshtestgallery.cloudapp.net
-DOMAIN,pplx-res.cloudinary.com
 DOMAIN,practivate.adobe
 DOMAIN,practivate.adobe.com
 DOMAIN,practivate.adobe.ipp
@@ -506,7 +498,6 @@ DOMAIN,prod-databe.floonet.goog
 DOMAIN,prod-support.apple-support.akadns.net
 DOMAIN,prod.databe.floonet.goog
 DOMAIN,prodforza.blob.core.windows.net
-DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,proxyconfig.corp.google.com
 DOMAIN,psg-int-centralus.cloudapp.net
 DOMAIN,psg-int-eastus.cloudapp.net
@@ -656,7 +647,6 @@ DOMAIN,seed-swallow.siri.apple.com
 DOMAIN,seed.siri.apple.com
 DOMAIN,sentry.hetzner.company
 DOMAIN,sequoia.apple.com
-DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,service.urchin.com
 DOMAIN,sf-api-token-service.itunes.apple.com
 DOMAIN,sh-pod2-smp-device.apple.com
