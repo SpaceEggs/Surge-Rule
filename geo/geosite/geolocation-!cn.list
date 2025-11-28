@@ -97,6 +97,7 @@ DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d1m7jfoe9zdc1j.cloudfront.net
 DOMAIN,d1mhjrowxxagfy.cloudfront.net
 DOMAIN,d1oca24q5dwo6d.cloudfront.net
+DOMAIN,d1unuk07s6td74.cloudfront.net
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
 DOMAIN,d1w2poirtb3as9.cloudfront.net
 DOMAIN,d1xhnb4ptk05mw.cloudfront.net
@@ -301,6 +302,9 @@ DOMAIN,push-apple.com.akadns.net
 DOMAIN,pvr-hamivideo.cdn.hinet.net
 DOMAIN,qualcomm.sc.omtrdc.net
 DOMAIN,rink.hockeyapp.net
+DOMAIN,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
+DOMAIN,roblox-poc.global.ssl.fastly.net
+DOMAIN,robloxcorp.s.llnwi.net
 DOMAIN,rss.4040940.xyz
 DOMAIN,rss.datuan.dev
 DOMAIN,rss.littlebaby.life
