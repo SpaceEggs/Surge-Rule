@@ -9,6 +9,7 @@ DOMAIN,bacon.secure.dyn.riotcdn.net
 DOMAIN,blizzard.gcdn.cloudn.co.kr
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,blzddistkr1-a.akamaihd.net
+DOMAIN,blzdist-d3.necdn.leihuo.netease.com
 DOMAIN,blzdist-di.necdn.leihuo.netease.com
 DOMAIN,blzdist-hs.necdn.leihuo.netease.com
 DOMAIN,blzdist-ow.necdn.leihuo.netease.com
@@ -447,6 +448,7 @@ DOMAIN,ks-foundation.dyn.riotcdn.net
 DOMAIN,ks-foundation.secure.dyn.riotcdn.net
 DOMAIN,level3.blizzard.com
 DOMAIN,level3.ssl.blizzard.com
+DOMAIN,lion.secure.dyn.riotcdn.net
 DOMAIN,lol.dyn.riotcdn.net
 DOMAIN,lol.secure.dyn.riotcdn.net
 DOMAIN,lv.queniujq.cn
@@ -454,6 +456,7 @@ DOMAIN,marketing-sections.gog.com
 DOMAIN,mock-game.dyn.riotcdn.net
 DOMAIN,mock-game.secure.dyn.riotcdn.net
 DOMAIN,origin-a.akamaihd.net
+DOMAIN,prod.cloudflare.cdn.ea.com
 DOMAIN,recommendations-api.gog.com
 DOMAIN,riot-client.dyn.riotcdn.net
 DOMAIN,riot-client.secure.dyn.riotcdn.net
@@ -471,6 +474,7 @@ DOMAIN,steampipe.akamaized.net
 DOMAIN,tlu.dl.delivery.mp.microsoft.com
 DOMAIN,trts.baishancdnx.cn
 DOMAIN,ubisoftconnect.cdn.ubi.com
+DOMAIN,ubisoftconnect.eo-edgefunctions7.com
 DOMAIN,uplaypc-s-ubisoft-ww.cdn.ubi.com
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
