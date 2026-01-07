@@ -16,5 +16,6 @@ DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN,ocsp2.apple.com
 DOMAIN,pki-goog.l.google.com
 DOMAIN,valid.apple.com
+DOMAIN,valid.origin-apple.com.akadns.net
 DOMAIN,www.entrust.cn
 DOMAIN,www.microsoft.com
