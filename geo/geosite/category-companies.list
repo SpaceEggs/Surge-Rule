@@ -54,6 +54,8 @@ DOMAIN,amp-api.media.apple.com
 DOMAIN,amp-api.music.apple.com
 DOMAIN,analytics.google.com
 DOMAIN,android.googlesource.com
+DOMAIN,antigravity-pa.googleapis.com
+DOMAIN,antigravity.googleapis.com
 DOMAIN,aod.itunes.apple.com
 DOMAIN,api-edge.apps.apple.com
 DOMAIN,api.viu.now.com
@@ -138,6 +140,8 @@ DOMAIN,clientflow.apple.com.akadns.net
 DOMAIN,clientperipherals.dell.com
 DOMAIN,clients1.google.com
 DOMAIN,clientservices.googleapis.com
+DOMAIN,cloudaicompanion.googleapis.com
+DOMAIN,cloudcode-pa.googleapis.com
 DOMAIN,cma.itunes.apple.com
 DOMAIN,cn-smp-paymentservices.apple.com
 DOMAIN,cn.download.nvidia.com
@@ -169,6 +173,7 @@ DOMAIN,d22qjgkvxw22r6.cloudfront.net
 DOMAIN,d25xi40x97liuc.cloudfront.net
 DOMAIN,d27xxe7juh1us6.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net
+DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN,dartsearch-cn.net
 DOMAIN,dc1-cert.ksn.kaspersky-labs.com
 DOMAIN,dc1-file.ksn.kaspersky-labs.com
@@ -433,6 +438,8 @@ DOMAIN,na1r.services.adobe.com
 DOMAIN,nexus.dell.com
 DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
 DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
+DOMAIN,notebooklm-pa.googleapis.com
+DOMAIN,notebooklm.googleapis.com
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,nvidia.tt.omtrdc.net
 DOMAIN,o.pki.goog
