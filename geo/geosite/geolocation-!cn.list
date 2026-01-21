@@ -74,7 +74,6 @@ DOMAIN,bnetshopus.akamaized.net
 DOMAIN,brightcove.imgix.net
 DOMAIN,bybit-exchange.github.io
 DOMAIN,bybit.ada.support
-DOMAIN,bytedance.map.fastly.net
 DOMAIN,c.ppy.sh
 DOMAIN,cbsi.live.ott.irdeto.com
 DOMAIN,cbsplaylistserver.aws.syncbak.com
@@ -91,7 +90,6 @@ DOMAIN,clients1.google.com
 DOMAIN,cloudaicompanion.googleapis.com
 DOMAIN,cloudcode-pa.googleapis.com
 DOMAIN,cloudsync-prod.s3.amazonaws.com
-DOMAIN,community.oneplus.com
 DOMAIN,configuration-lb.ls-apple.com.akadns.net
 DOMAIN,crl.microsoft.com
 DOMAIN,crl.versign.net
@@ -428,6 +426,8 @@ DOMAIN,spotify.com.edgesuite.net
 DOMAIN,spotify.map.fastly.net
 DOMAIN,spotify.map.fastlylb.net
 DOMAIN,ssl-lvlt.cdn.ea.com
+DOMAIN,standchartbank.sc.omtrdc.net
+DOMAIN,standchartbank.tt.omtrdc.net
 DOMAIN,static-hamivideo.cdn.hinet.net
 DOMAIN,static.siege-amazon.com
 DOMAIN,statics-marketingsites-eas-ms-com.akamaized.net
@@ -491,7 +491,6 @@ DOMAIN,ubisoft-orbit-savegames.s3.amazonaws.com
 DOMAIN,ubisoft-uplay-savegames.s3.amazonaws.com
 DOMAIN,ubistatic3-a.akamaihd.net
 DOMAIN,ulrichsweb.serialssolutions.com
-DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN,ut1-time.colorado.edu
 DOMAIN,ut1-wwv.nist.gov
 DOMAIN,utcnist.colorado.edu
@@ -522,7 +521,6 @@ DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN,wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
 DOMAIN,weblive-hamivideo.cdn.hinet.net
-DOMAIN,wetv.qq.com
 DOMAIN,widgets.stripst.com
 DOMAIN,wip.adobe.com
 DOMAIN,wip1.adobe.com
