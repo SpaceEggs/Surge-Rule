@@ -9,11 +9,15 @@ DOMAIN,adstudio-assets.scdn.co
 DOMAIN,analytics.google.com
 DOMAIN,apilog-web.acfun.cn
 DOMAIN,bloodhound.spotify.com
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,disney.my.sentry.io
 DOMAIN,log-sdk.gifshow.com
 DOMAIN,log3-applog-hl.fqnovel.com
 DOMAIN,log3-applog.fqnovel.com
 DOMAIN,log5-applog-hl.fqnovel.com
 DOMAIN,log5-applog.fqnovel.com
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,o4504926511693824.ingest.sentry.io
 DOMAIN,p3-ad-sign.byteimg.com
 DOMAIN,p6-ad-sign.byteimg.com
 DOMAIN,p9-ad-sign.byteimg.com
@@ -21,4 +25,5 @@ DOMAIN,rtlog3-applog-hl.fqnovel.com
 DOMAIN,rtlog3-applog.fqnovel.com
 DOMAIN,rtlog5-applog-hl.fqnovel.com
 DOMAIN,rtlog5-applog.fqnovel.com
+DOMAIN,sentry.hetzner.company
 DOMAIN,wlog.kuaishou.com
