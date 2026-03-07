@@ -676,6 +676,8 @@ DOMAIN,speedysub.music.apple.com
 DOMAIN,ssl-google-analytics.l.google.com
 DOMAIN,ssl.gstatic.com
 DOMAIN,sslredirect.corp.google.com
+DOMAIN,st-ok-pts.cdn-vk.ru
+DOMAIN,st-ok.cdn-vk.ru
 DOMAIN,staging-controlbe.floonet.goog
 DOMAIN,staging-databe.floonet.goog
 DOMAIN,staging.databe.floonet.goog
@@ -873,4 +875,5 @@ DOMAIN,www.support.apple.com
 DOMAIN,xn--flw351e.com
 DOMAIN,xp.apple.com
 DOMAIN,yandex-pogoda.static-storage.net
+DOMAIN,youla-web-static.mrgcdn.ru
 DOMAIN,yt3.googleusercontent.com

@@ -41,6 +41,7 @@ DOMAIN,antigravity.googleapis.com
 DOMAIN,aod-pod-uk-live.akamaized.net
 DOMAIN,api-p.videomarket.jp
 DOMAIN,api.viu.now.com
+DOMAIN,apkmirror.disqus.com
 DOMAIN,apl-hamivideo.cdn.hinet.net
 DOMAIN,apple-tv-plus-press.apple.com
 DOMAIN,apple.com.akadns.net
@@ -429,6 +430,8 @@ DOMAIN,spotify.com.edgesuite.net
 DOMAIN,spotify.map.fastly.net
 DOMAIN,spotify.map.fastlylb.net
 DOMAIN,ssl-lvlt.cdn.ea.com
+DOMAIN,st-ok-pts.cdn-vk.ru
+DOMAIN,st-ok.cdn-vk.ru
 DOMAIN,standchartbank.sc.omtrdc.net
 DOMAIN,standchartbank.tt.omtrdc.net
 DOMAIN,static-hamivideo.cdn.hinet.net
@@ -654,5 +657,6 @@ DOMAIN,wwis-dubc1-vip99.adobe.com
 DOMAIN,www-cdn.icloud.com.akadns.net
 DOMAIN,yandex-pogoda.static-storage.net
 DOMAIN,yangzhi.app
+DOMAIN,youla-web-static.mrgcdn.ru
 DOMAIN,yt3.googleusercontent.com
 DOMAIN,zeenews-fonts.s3.amazonaws.com
