@@ -445,6 +445,7 @@ DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
 DOMAIN,notebooklm-pa.googleapis.com
 DOMAIN,notebooklm.googleapis.com
 DOMAIN,np-edge.itunes.apple.com
+DOMAIN,nvidia.custhelp.com
 DOMAIN,nvidia.tt.omtrdc.net
 DOMAIN,o.pki.goog
 DOMAIN,ocsp-lb.apple.com.akadns.net
