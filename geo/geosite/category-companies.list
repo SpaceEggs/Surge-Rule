@@ -105,6 +105,7 @@ DOMAIN,cdn-cn2.apple-mapkit.com
 DOMAIN,cdn-cn3.apple-mapkit.com
 DOMAIN,cdn-cn4.apple-mapkit.com
 DOMAIN,cdn.apple-mapkit.com
+DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,cdn.js7k.com
 DOMAIN,cdn.marketplaceimages.windowsphone.com
 DOMAIN,cdn1.apple-mapkit.com
@@ -159,6 +160,7 @@ DOMAIN,content.googleadapis.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,crl-lb.apple.com.akadns.net
 DOMAIN,crl.apple.com
+DOMAIN,crl.globalsign.net
 DOMAIN,crl.kaspersky.com
 DOMAIN,crl.microsoft.com
 DOMAIN,crl.pki.goog
