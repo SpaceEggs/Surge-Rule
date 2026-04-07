@@ -13,8 +13,10 @@ DOMAIN,browser-updater.yandex.net
 DOMAIN,bs.yandex.ru
 DOMAIN,clck.yandex.net
 DOMAIN,clck.yandex.ru
+DOMAIN,clickstream.sberbank.ru
 DOMAIN,counter.yandex.net
 DOMAIN,counter.yandex.ru
+DOMAIN,error-tracking.megamarket.tech
 DOMAIN,informer.yandex.ru
 DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.ru
@@ -24,4 +26,7 @@ DOMAIN,pixel.yandex.net
 DOMAIN,report-partners.appmetrica.yandex.net
 DOMAIN,report.ap.yandex-net.ru
 DOMAIN,report.appmetrica.yandex.net
+DOMAIN,sentry.sberauto.com
+DOMAIN,tracing-http.megamarket.tech
+DOMAIN,visor.sberbank.ru
 DOMAIN,yabs.yandex.ru

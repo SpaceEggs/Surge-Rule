@@ -157,6 +157,8 @@ DOMAIN,ea.tt.omtrdc.net
 DOMAIN,eaassets-a.akamaihd.net
 DOMAIN,ebay-25-assets.s3-us-west-1.amazonaws.com
 DOMAIN,ecapi-pchome.cdn.hinet.net
+DOMAIN,edu.tinkoff.ru
+DOMAIN,education.tbank.ru
 DOMAIN,elib.maruzen.co.jp
 DOMAIN,epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
 DOMAIN,ereg.adobe.com
@@ -346,6 +348,7 @@ DOMAIN,rsshub.woodland.cafe
 DOMAIN,rsshub2.asailor.org
 DOMAIN,rtm.tnt-ea.com
 DOMAIN,sa78gs.wpc.edgecastcdn.net
+DOMAIN,sberpro.vedomosti.ru
 DOMAIN,scc.ott.hinet.net
 DOMAIN,scholar.google.ae
 DOMAIN,scholar.google.at
@@ -657,7 +660,6 @@ DOMAIN,wwis-dubc1-vip97.adobe.com
 DOMAIN,wwis-dubc1-vip98.adobe.com
 DOMAIN,wwis-dubc1-vip99.adobe.com
 DOMAIN,www-cdn.icloud.com.akadns.net
-DOMAIN,yandex-pogoda.static-storage.net
 DOMAIN,yangzhi.app
 DOMAIN,youla-web-static.mrgcdn.ru
 DOMAIN,yt3.googleusercontent.com
