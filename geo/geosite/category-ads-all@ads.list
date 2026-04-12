@@ -10,9 +10,7 @@ DOMAIN,analytics.google.com
 DOMAIN,apilog-web.acfun.cn
 DOMAIN,bloodhound.spotify.com
 DOMAIN,browser-intake-datadoghq.com
-DOMAIN,clickstream.sberbank.ru
 DOMAIN,disney.my.sentry.io
-DOMAIN,error-tracking.megamarket.tech
 DOMAIN,log-sdk.gifshow.com
 DOMAIN,log3-applog-hl.fqnovel.com
 DOMAIN,log3-applog.fqnovel.com
@@ -28,7 +26,4 @@ DOMAIN,rtlog3-applog.fqnovel.com
 DOMAIN,rtlog5-applog-hl.fqnovel.com
 DOMAIN,rtlog5-applog.fqnovel.com
 DOMAIN,sentry.hetzner.company
-DOMAIN,sentry.sberauto.com
-DOMAIN,tracing-http.megamarket.tech
-DOMAIN,visor.sberbank.ru
 DOMAIN,wlog.kuaishou.com
