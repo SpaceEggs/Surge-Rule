@@ -1,15 +1,2 @@
-DOMAIN,-
-DOMAIN,.
-DOMAIN,a
-DOMAIN,b
-DOMAIN,c
-DOMAIN,d
-DOMAIN,e
-DOMAIN,g
-DOMAIN,i
-DOMAIN,m
-DOMAIN,n
-DOMAIN,o
-DOMAIN,p
-DOMAIN,r
-DOMAIN,t
+DOMAIN,tmdb-image-prod.b-cdn.net
+DOMAIN,tmdb-web-image-prod.b-cdn.net
