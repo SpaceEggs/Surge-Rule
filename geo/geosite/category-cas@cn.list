@@ -9,10 +9,8 @@ DOMAIN,crl.pki.goog
 DOMAIN,crls.pki.goog
 DOMAIN,i.pki.goog
 DOMAIN,o.pki.goog
-DOMAIN,ocsp-lb.apple.com.akadns.net
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp.pki.goog
-DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN,ocsp2.apple.com
 DOMAIN,pki-goog.l.google.com
 DOMAIN,valid.apple.com

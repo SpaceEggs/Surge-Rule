@@ -1,6 +1,5 @@
 DOMAIN,c.pki.goog
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
-DOMAIN,cdn.js7k.com
 DOMAIN,certs-lb.apple.com.akadns.net
 DOMAIN,certs.apple.com
 DOMAIN,clients1.google.com
@@ -13,11 +12,9 @@ DOMAIN,crls.pki.goog
 DOMAIN,i.pki.goog
 DOMAIN,mscrl.microsoft.com
 DOMAIN,o.pki.goog
-DOMAIN,ocsp-lb.apple.com.akadns.net
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp.microsoft.com
 DOMAIN,ocsp.pki.goog
-DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN,ocsp2.apple.com
 DOMAIN,oneocsp.microsoft.com
 DOMAIN,pki-goog.l.google.com
