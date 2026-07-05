@@ -295,6 +295,7 @@ DOMAIN,ea2cn-prod-outlet.dell.com
 DOMAIN,ea2cn-staging-outlet.dell.com
 DOMAIN,edge.geo.kaspersky.com
 DOMAIN,emoi-cncdn.bing.com
+DOMAIN,entitlements-edge.itunes.apple.com
 DOMAIN,ereg.adobe.com
 DOMAIN,ereg.wip.adobe.com
 DOMAIN,ereg.wip1.adobe.com
@@ -324,6 +325,7 @@ DOMAIN,flightsimulator.azureedge.net
 DOMAIN,fontfiles.googleapis.com
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
+DOMAIN,fpinit.itunes.apple.com
 DOMAIN,fta.dell.com
 DOMAIN,ftaapj.dell.com
 DOMAIN,ftaemea.dell.com
@@ -415,7 +417,6 @@ DOMAIN,inappcheck.itunes.apple.com
 DOMAIN,incoming-telemetry.thunderbird.net
 DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN,informer.yandex.ru
-DOMAIN,ingest.apple-studies.com
 DOMAIN,init-kt.apple.com
 DOMAIN,init-p01md-lb.push-apple.com.akadns.net
 DOMAIN,init-p01md.apple.com
