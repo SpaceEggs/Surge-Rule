@@ -565,6 +565,7 @@ DOMAIN,time5.facebook.com
 DOMAIN,tlmr-hamivideo2.cdn.hinet.net
 DOMAIN,tmdb-image-prod.b-cdn.net
 DOMAIN,tmdb-web-image-prod.b-cdn.net
+DOMAIN,trojan-gfw.github.io
 DOMAIN,tv.applemusic.com
 DOMAIN,tvcastlive-hamivideo.cdn.hinet.net
 DOMAIN,ubisoft-orbit-savegames.s3.amazonaws.com
@@ -734,6 +735,7 @@ DOMAIN,wwis-dubc1-vip99.adobe.com
 DOMAIN,www-cdn.icloud.com.akadns.net
 DOMAIN,www.microsoft.com
 DOMAIN,www.quora.com.cdn.cloudflare.net
+DOMAIN,xtls.github.io
 DOMAIN,yangzhi.app
 DOMAIN,yt3.googleusercontent.com
 DOMAIN,zeenews-fonts.s3.amazonaws.com
