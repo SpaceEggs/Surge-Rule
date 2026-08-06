@@ -164,6 +164,7 @@ DOMAIN,developers.facebook.com
 DOMAIN,dfp6rglgjqszk.cloudfront.net
 DOMAIN,dgeft87wbj63p.cloudfront.net
 DOMAIN,discord-attachments-uploads-prd.storage.googleapis.com
+DOMAIN,disneyplus.com.ssl.sc.omtrdc.net
 DOMAIN,dl.begellhouse.com
 DOMAIN,dlgarenanow-a.akamaihd.net
 DOMAIN,dlmobilegarena-a.akamaihd.net
@@ -274,9 +275,11 @@ DOMAIN,lmlicenses.wip4.adobe.com
 DOMAIN,location.microsoft.com
 DOMAIN,lolstatic-a.akamaihd.net
 DOMAIN,m1.ppy.sh
+DOMAIN,matsuridayo.github.io
 DOMAIN,mdn.mozillademos.org
 DOMAIN,media-rockstargames-com.akamaized.net
 DOMAIN,medone-education.thieme.com
+DOMAIN,metacubex.github.io
 DOMAIN,misa-prod.s3.ap-northeast-1.amazonaws.com
 DOMAIN,mobilelive-hamivideo.cdn.hinet.net
 DOMAIN,mozilla-ohttp.fastly-edge.com
@@ -290,8 +293,6 @@ DOMAIN,mtalk4.google.com
 DOMAIN,muse.jhu.edu
 DOMAIN,mwf-service.akamaized.net
 DOMAIN,na1r.services.adobe.com
-DOMAIN,nab.demdex.net
-DOMAIN,nationalaustraliaban.tt.omtrdc.net
 DOMAIN,nbbb1bb7.pmhcjk.com
 DOMAIN,netflix.com.edgesuite.net
 DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
@@ -386,6 +387,7 @@ DOMAIN,push-apple.com.akadns.net
 DOMAIN,pvr-hamivideo.cdn.hinet.net
 DOMAIN,q676790b.pmhcjk.com
 DOMAIN,qualcomm.sc.omtrdc.net
+DOMAIN,rabbit-hole-1.gitbook.io
 DOMAIN,rink.hockeyapp.net
 DOMAIN,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 DOMAIN,roblox-poc.global.ssl.fastly.net
@@ -529,6 +531,7 @@ DOMAIN,t.ssp.hinet.net
 DOMAIN,t21.nikkei.co.jp
 DOMAIN,t21ipau.nikkei.co.jp
 DOMAIN,teamviewer.com.cdn.cloudflare.net
+DOMAIN,throneproj.github.io
 DOMAIN,thumbnail-hamivideo.cdn.hinet.net
 DOMAIN,time-a-b.nist.gov
 DOMAIN,time-a-g.nist.gov
