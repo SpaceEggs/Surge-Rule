@@ -299,9 +299,10 @@ DOMAIN,faronics.kayako.com
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN,fides-pol.apple.com
 DOMAIN,firebase-settings.crashlytics.com
-DOMAIN,firebase.google.com
 DOMAIN,firebase.googleapis.com
 DOMAIN,firebaseappcheck.googleapis.com
+DOMAIN,firebaseappdistribution.googleapis.com
+DOMAIN,firebaseapptesters.googleapis.com
 DOMAIN,firebasedynamiclinks-ipv4.googleapis.com
 DOMAIN,firebasedynamiclinks-ipv6.googleapis.com
 DOMAIN,firebasedynamiclinks.googleapis.com
