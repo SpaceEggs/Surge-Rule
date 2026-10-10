@@ -64,7 +64,6 @@ DOMAIN,clck.yandex.com
 DOMAIN,clck.yandex.net
 DOMAIN,clck.yango.com
 DOMAIN,click.rustore.ru
-DOMAIN,error-tracking.megamarket.tech
 DOMAIN,google-analytics-suite.ozon.ru
 DOMAIN,informer.yandex.ru
 DOMAIN,log.strm.yandex.ru
@@ -74,7 +73,6 @@ DOMAIN,marketplace-sentry.wb.ru
 DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com
-DOMAIN,metrics.21-school.ru
 DOMAIN,metrika.kontur.ru
 DOMAIN,new-adv.ozon.ru
 DOMAIN,pixel.rustore.ru
@@ -96,7 +94,6 @@ DOMAIN,sentry.mindbox.ru
 DOMAIN,sentry.ozon.ru
 DOMAIN,sentry.popmechanic.ru
 DOMAIN,sentry.rustore.ru
-DOMAIN,sentry.sberauto.com
 DOMAIN,sentry.viqeo.tv
 DOMAIN,sentry.wb.ru
 DOMAIN,sentry.x5.ru
@@ -111,7 +108,6 @@ DOMAIN,stats.vk-portal.net
 DOMAIN,t.mail.ru
 DOMAIN,target.vk.com
 DOMAIN,top-staging.mail.ru
-DOMAIN,tracing-http.megamarket.tech
 DOMAIN,visor.sberbank.ru
 DOMAIN,web-analytics.wildberries.ru
 DOMAIN,whiteline.mail.ru

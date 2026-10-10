@@ -98,7 +98,6 @@ DOMAIN,dnl-19.geo.kaspersky.com
 DOMAIN,edge.geo.kaspersky.com
 DOMAIN,edu.tinkoff.ru
 DOMAIN,education.tbank.ru
-DOMAIN,error-tracking.megamarket.tech
 DOMAIN,google-analytics-suite.ozon.ru
 DOMAIN,informer.yandex.ru
 DOMAIN,ksn-cinfo-geo.kaspersky-labs.com
@@ -133,7 +132,6 @@ DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com
 DOMAIN,mdr.ksn.kaspersky-labs.com
-DOMAIN,metrics.21-school.ru
 DOMAIN,metrika.kontur.ru
 DOMAIN,metro.spb.ru
 DOMAIN,mos.transport.vtb.ru
@@ -191,7 +189,6 @@ DOMAIN,s16.upd.kaspersky.com
 DOMAIN,s17.upd.kaspersky.com
 DOMAIN,s18.upd.kaspersky.com
 DOMAIN,s19.upd.kaspersky.com
-DOMAIN,sberpro.vedomosti.ru
 DOMAIN,sentry-ng.g.smailru.net
 DOMAIN,sentry.dev-my.com
 DOMAIN,sentry.dev-my.games
@@ -201,7 +198,6 @@ DOMAIN,sentry.mindbox.ru
 DOMAIN,sentry.ozon.ru
 DOMAIN,sentry.popmechanic.ru
 DOMAIN,sentry.rustore.ru
-DOMAIN,sentry.sberauto.com
 DOMAIN,sentry.viqeo.tv
 DOMAIN,sentry.wb.ru
 DOMAIN,sentry.x5.ru
@@ -219,7 +215,6 @@ DOMAIN,t.mail.ru
 DOMAIN,target.vk.com
 DOMAIN,taxi.yandex.ru
 DOMAIN,top-staging.mail.ru
-DOMAIN,tracing-http.megamarket.tech
 DOMAIN,transport.mos.ru
 DOMAIN,visor.sberbank.ru
 DOMAIN,web-analytics.wildberries.ru
