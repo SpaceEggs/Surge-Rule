@@ -1,3 +1,4 @@
+
 name: Daily Geo Rules Converter
 
 on:
@@ -8,15 +9,15 @@ on:
 jobs:
   convert:
     runs-on: ubuntu-latest
-    permissions:  # 关键权限声明
+    permissions:
       contents: write
 
     steps:
       - name: Checkout with credentials
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
-          persist-credentials: true  # 保留认证信息
-          fetch-depth: 0  # 获取完整提交历史
+          persist-credentials: true
+          fetch-depth: 0
 
       - name: Clone source data
         run: |
@@ -25,13 +26,12 @@ jobs:
             source-repo
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
           python-version: "3.10"
 
       - name: Run conversion
         run: |
-          pip install pathlib
           python convert_metacubex.py
 
       - name: Commit & Push
@@ -44,11 +44,9 @@ jobs:
           git add geo/ geo-lite/
 
           # 检测是否有实际变更
-          if git diff-index --quiet HEAD --; then
+          if git diff --cached --quiet; then
             echo "没有检测到变更"
           else
-            # 提交并推送（使用 token 认证）
             git commit -m "Auto-Update: $(date -u +'%Y-%m-%dT%H:%MZ')"
-            git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
             git push origin HEAD:main
           fi
