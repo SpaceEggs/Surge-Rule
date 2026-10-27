@@ -50,6 +50,9 @@ DOMAIN,apple-tv-plus-press.apple.com
 DOMAIN,apple.com.akadns.net
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
 DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
+DOMAIN,appsgenaiserver-pa.clients.google.com
+DOMAIN,appsgenaiserver-pa.clients6.google.com
+DOMAIN,appsgenaiserver-pa.googleapis.com
 DOMAIN,as-dash-uk-live.akamaized.net
 DOMAIN,as-hls-uk-live.akamaized.net
 DOMAIN,asahishimbun.sc.omtrdc.net
@@ -156,6 +159,8 @@ DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN,databank.worldbank.org
 DOMAIN,database.asahi.com
 DOMAIN,datarouter.apps.netherrealm.com
+DOMAIN,dc.applicationinsights.azure.com
+DOMAIN,dc.services.visualstudio.com
 DOMAIN,dcb0z5ovq92mz.cloudfront.net
 DOMAIN,ddacn6pr5v0tl.cloudfront.net
 DOMAIN,ddpjwstwtpszg.cloudfront.net
@@ -285,6 +290,7 @@ DOMAIN,linear-abematv.akamaized.net
 DOMAIN,link.theplatform.com
 DOMAIN,linkedin.sc.omtrdc.net
 DOMAIN,live-patreon-marketing.pantheonsite.io
+DOMAIN,live.applicationinsights.azure.com
 DOMAIN,lm.licenses.adobe.com
 DOMAIN,lmlicenses.wip4.adobe.com
 DOMAIN,location.microsoft.com
@@ -309,7 +315,6 @@ DOMAIN,muse.jhu.edu
 DOMAIN,mwf-service.akamaized.net
 DOMAIN,na1r.services.adobe.com
 DOMAIN,nbbb1bb7.pmhcjk.com
-DOMAIN,netflix.com.edgesuite.net
 DOMAIN,nix-community.github.io
 DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
 DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
@@ -429,6 +434,7 @@ DOMAIN,rsshub.rssforever.com
 DOMAIN,rsshub.umzzz.com
 DOMAIN,rsshub.woodland.cafe
 DOMAIN,rsshub2.asailor.org
+DOMAIN,rt.services.visualstudio.com
 DOMAIN,rtm.tnt-ea.com
 DOMAIN,sa78gs.wpc.edgecastcdn.net
 DOMAIN,scc-hamivideo.cdn.hinet.net
@@ -513,7 +519,6 @@ DOMAIN,sentry.ppy.sh
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,sni1dcb6gl.wpc.edgecastcdn.net
 DOMAIN,spectator.ppy.sh
-DOMAIN,spotify.com.edgesuite.net
 DOMAIN,spotify.map.fastly.net
 DOMAIN,spotify.map.fastlylb.net
 DOMAIN,ssl-lvlt.cdn.ea.com

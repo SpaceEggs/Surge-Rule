@@ -80,12 +80,19 @@ DOMAIN,clck.yango.com
 DOMAIN,click.rustore.ru
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,dc.applicationinsights.azure.com
+DOMAIN,dc.services.visualstudio.com
 DOMAIN,disney.my.sentry.io
 DOMAIN,error-tracking.megamarket.tech
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,firebaselogging.googleapis.com
 DOMAIN,google-analytics-suite.ozon.ru
 DOMAIN,incoming-telemetry.thunderbird.net
 DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN,informer.yandex.ru
+DOMAIN,live.applicationinsights.azure.com
 DOMAIN,log-sdk.gifshow.com
 DOMAIN,log.strm.yandex.ru
 DOMAIN,log3-applog-hl.fqnovel.com
@@ -119,6 +126,7 @@ DOMAIN,r1.mail.ru
 DOMAIN,reklama.mail.ru
 DOMAIN,report.ap.yandex-net.ru
 DOMAIN,rs.mail.ru
+DOMAIN,rt.services.visualstudio.com
 DOMAIN,rtlog3-applog-hl.fqnovel.com
 DOMAIN,rtlog3-applog.fqnovel.com
 DOMAIN,rtlog5-applog-hl.fqnovel.com
@@ -132,6 +140,7 @@ DOMAIN,sentry.kontur.host
 DOMAIN,sentry.mindbox.ru
 DOMAIN,sentry.ozon.ru
 DOMAIN,sentry.popmechanic.ru
+DOMAIN,sentry.ppy.sh
 DOMAIN,sentry.rustore.ru
 DOMAIN,sentry.sberauto.com
 DOMAIN,sentry.viqeo.tv
@@ -149,6 +158,7 @@ DOMAIN,t.mail.ru
 DOMAIN,target.vk.com
 DOMAIN,top-staging.mail.ru
 DOMAIN,tracing-http.megamarket.tech
+DOMAIN,update.crashlytics.com
 DOMAIN,visor.sberbank.ru
 DOMAIN,web-analytics.wildberries.ru
 DOMAIN,whiteline.mail.ru

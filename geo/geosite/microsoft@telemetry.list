@@ -1,2 +1,6 @@
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,dc.applicationinsights.azure.com
+DOMAIN,dc.services.visualstudio.com
+DOMAIN,live.applicationinsights.azure.com
+DOMAIN,rt.services.visualstudio.com

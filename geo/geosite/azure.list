@@ -1,2 +1,4 @@
 DOMAIN,azure.microsoft.com
 DOMAIN,azuremarketplace.microsoft.com
+DOMAIN,dc.applicationinsights.azure.com
+DOMAIN,live.applicationinsights.azure.com
